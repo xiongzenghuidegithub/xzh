@@ -1,4 +1,4 @@
-## what this ？
+## What this ？
 
 这是一个适用于 iOS 移动端的命令行工具集，提供常用自动自动化:
 
@@ -9,13 +9,13 @@
 
 
 
-## why use ruby ？
+## Why use ruby ？
 
 谁叫 cocoapods、fastlane … 都是 ruby 写的了 ~
 
 
 
-## install
+## Install
 
 Add this line to your application's Gemfile:
 
